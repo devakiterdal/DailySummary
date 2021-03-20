@@ -1,0 +1,12 @@
+Daily Summary
+Date:16/03/2021
+
+1.	Picked up the task .env file configuration on live server
+2.	Dotenv is a zero-dependency module that loads environment variables, storing configuration in the environment separate from code
+3.	Created the .env file on local machine, added all the required keys into the file
+4.	Changes are made to settings.py script according to .env
+5.	.env file setup on local machine and testing it on local machine
+6.	Configuration on .env file on UAT and testing it on UAT.
+7.	Shared all the required to the respective people
+
+
